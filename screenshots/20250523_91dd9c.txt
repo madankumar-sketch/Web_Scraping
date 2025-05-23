@@ -1,0 +1,7 @@
+screenshots/
+├── project_1.png       # Screenshot of Green Valley Apartments
+├── project_2.png       # Screenshot of Sunrise Towers
+├── project_3.png       # Screenshot of Ocean View Residency
+├── project_4.png       # Screenshot of Golden Heights
+├── project_5.png       # Screenshot of Silver Oak Estates
+└── project_6.png       # Screenshot of Urban Meadows

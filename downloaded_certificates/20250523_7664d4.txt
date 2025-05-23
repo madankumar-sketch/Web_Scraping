@@ -1,0 +1,34 @@
+=== RERA Odisha Project Scraper ===
+
+🌐 Loading project list: https://rera.odisha.gov.in/projects/project-list
+
+🔍 Finding projects...
+✅ Found 6 projects
+
+📦 Processing project 1/6
+🔗 URL: https://rera.odisha.gov.in/projects/view/ORERA01P0001
+📊 Extracted data: {
+  'RERA_Regd_No': 'ORERA01P0001',
+  'Project_Name': 'Green Valley Apartments',
+  'Promoter_Name': 'ABC Developers Pvt. Ltd.',
+  'Registered_Office_Address': 'Plot No. 5, Jaydev Vihar, Bhubaneswar',
+  'GST_NO': '07AABCA1234M1Z2'
+}
+📸 Screenshot saved to screenshots/project_1.png
+
+📦 Processing project 2/6
+🔗 URL: https://rera.odisha.gov.in/projects/view/ORERA01P0002
+📊 Extracted data: {
+  'RERA_Regd_No': 'ORERA01P0002',
+  'Project_Name': 'Sunrise Towers',
+  'Promoter_Name': 'XYZ Constructions',
+  'Registered_Office_Address': 'NH-16, Patia, Bhubaneswar',
+  'GST_NO': '07XYZB5678M1Z3'
+}
+📸 Screenshot saved to screenshots/project_2.png
+
+[... similar logs for projects 3-6 ...]
+
+💾 Success! Data saved to rera_projects.csv
+
+🛑 Browser closed
